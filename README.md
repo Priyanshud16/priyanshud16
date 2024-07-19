@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **priyanshuharrdy@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/PriyanshuDwivedi-FullStackWebDeveloper-hUzE.pdf](file:///C:/Users/hp/Downloads/PriyanshuDwivedi-FullStackWebDeveloper-hUzE.pdf)
+- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/PriyanshuDwivedi-FullStackWebDeveloper-hUzE.pdf]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
